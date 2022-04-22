@@ -36,7 +36,7 @@
                 }).then(function (e) {
                     s = e.country.toLowerCase()
                 }).catch(function () {}).then(function () {
-                    if (s === "il") return a();
+                    if (s === "ru") return a();
                     try {
                         window.sessionStorage.setItem("russia-redirect", "0")
                     } catch (e) {}
