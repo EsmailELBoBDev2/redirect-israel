@@ -1,4 +1,4 @@
-# Redirect Israel
+# Free Palestine 🇵🇸🇵🇸
 
 Redirect Israel is a small JS that redirects your Israelis visitors to some other pages as a way to show support for Palestine 🇵🇸
 
@@ -16,3 +16,10 @@ To:
 ```
 <script src="main.js" data-redirect-url="https://palestine.esmailelbob.xyz" data-hide-domain="hide" async crossorigin="anonymous"></script>
 ```
+
+___
+
+# But why?
+
+Really? Because Israel is bad. [https://en.wikipedia.org/wiki/2022_Al-Aqsa_Mosque_storming](https://en.wikipedia.org/wiki/2022_Al-Aqsa_Mosque_storming) so yup!
+
