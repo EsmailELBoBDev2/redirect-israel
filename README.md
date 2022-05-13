@@ -21,5 +21,5 @@ ___
 
 # But why?
 
-Really? Because Israel is bad. [https://en.wikipedia.org/wiki/2022_Al-Aqsa_Mosque_storming](https://en.wikipedia.org/wiki/2022_Al-Aqsa_Mosque_storming) so yup!
+Really? Because Israel is bad. [https://wikiless.esmailelbob.xyz/wiki/2022_Al-Aqsa_Mosque_storming](https://wikiless.esmailelbob.xyz/wiki/2022_Al-Aqsa_Mosque_storming) and [https://libreddit.esmailelbob.xyz/uoq4rx](https://libreddit.esmailelbob.xyz/uoq4rx) so yup!
 
